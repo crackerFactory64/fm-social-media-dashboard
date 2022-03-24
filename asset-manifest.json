@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fm-social-media-dashboard/static/css/main.ab2fd4c2.css",
+    "main.js": "/fm-social-media-dashboard/static/js/main.c68fa4e4.js",
+    "index.html": "/fm-social-media-dashboard/index.html",
+    "main.ab2fd4c2.css.map": "/fm-social-media-dashboard/static/css/main.ab2fd4c2.css.map",
+    "main.c68fa4e4.js.map": "/fm-social-media-dashboard/static/js/main.c68fa4e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2fd4c2.css",
+    "static/js/main.c68fa4e4.js"
+  ]
+}
